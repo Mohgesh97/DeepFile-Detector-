@@ -31,11 +31,11 @@ PyInstaller - Packaging to .exe
 Hashlib - Cryptographic hashing
 
 # User Interface
-The tool provides a GUI with the following features:
+The tool provides the following features:
 
 Upload File – Select a file for analysis
 
-Generate Report – Save scan results
+Download Report – Generate and Save scan results
 
 Recover File – Reconstruct obfuscated file
 
